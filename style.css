@@ -148,6 +148,7 @@ nav a:hover {
   margin-bottom: 40px;
   color: #8acbe0;
   font-weight: 600;
+  text-align:center;
 }
 
 .skills-grid {
@@ -416,4 +417,5 @@ nav a:hover {
     box-shadow: 0 0 6px rgba(138, 203, 224, 0.3);
   }
 }
+
 
