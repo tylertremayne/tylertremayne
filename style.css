@@ -245,6 +245,16 @@ nav a:hover {
   background-color: rgb(207, 231, 252);
 }
 
+#projects.projects {
+  padding: 80px 40px;
+  background: linear-gradient(270deg, #0e0e0e, #353538, #121213);
+  background-size: 400% 400%;
+  animation: gradientBG 12s ease infinite;
+  color: #8acbe0;
+  text-align: center;
+}
+
+
 .about {
   background-color: #161616;
   color: #d0ecf9;
@@ -417,5 +427,6 @@ nav a:hover {
     box-shadow: 0 0 6px rgba(138, 203, 224, 0.3);
   }
 }
+
 
 
